@@ -7,4 +7,4 @@ watch me.
 
 ## About Me
 
-I love coding.
+ 
